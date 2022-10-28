@@ -772,7 +772,7 @@ h4 {
 
 .bold-link {
     font-weight: 900;
-    text-decoration: underline!important;
+    font-size: larger;
 }
 
 .bgc-white {
