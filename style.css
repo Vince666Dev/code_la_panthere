@@ -773,6 +773,7 @@ h4 {
 .bold-link {
     font-weight: 900;
     font-size: larger;
+    border-bottom: 3px solid white;
 }
 
 .bgc-white {
