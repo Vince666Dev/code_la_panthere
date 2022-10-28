@@ -18,6 +18,19 @@ a:hover {
     cursor: pointer;
 }
 
+blockquote
+{
+    font-size: 19px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+cite
+{
+    font-style: normal;
+    font-weight: 100;
+}
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
